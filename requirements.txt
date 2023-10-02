@@ -1,0 +1,11 @@
+jellyfish==0.5.6
+pandas
+spacy>=2.3.0,<2.4.0
+es-core-news-sm>=2.3.0,<2.4.0
+pydantic==1.9.1
+torch
+scikit-learn
+transformers
+Flask
+gunicorn
+load_dotenv
