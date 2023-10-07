@@ -5,14 +5,16 @@
 <br />
 <br />
 <br />
-<div style="text-align: center; padding: 10px; display:flex flex-direction:column">
-    <h1 style="font-size:25px; text-decoration-line: underline;">Version Escritorio 💻</h1>
-    <div style="display:flex; flex-wrap: wrap; gap:5px; justify-content: center;">
-    <img src="/images/v_escritorio.png" width="500px">
-    </div>
-    <h1 style="font-size:25px; text-decoration-line: underline;">Version Mobile 📱</h1>
-    <div style="display:flex; flex-wrap: wrap; gap:5px; justify-content: center;">
-    <img src="/images/v_mobile.png" width="200px" height="250px">    
+<div>
+  <div style="text-align: center; padding: 10px; display:flex flex-direction:column">
+      <h1 style="font-size:25px; text-decoration-line: underline;">Version Escritorio 💻</h1>
+      <div style="display:flex; flex-wrap: wrap; gap:5px; justify-content: center;">
+      <img src="/images/v_escritorio.png" width="500px">
+      </div>
+      <h1 style="font-size:25px; text-decoration-line: underline;">Version Mobile 📱</h1>
+      <div style="display:flex; flex-wrap: wrap; gap:5px; justify-content: center;">
+      <img src="/images/v_mobile.png" width="200px" height="250px">    
+  </div>
 </div>
 
 #1. Configuración del ambiente
